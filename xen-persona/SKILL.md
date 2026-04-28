@@ -1,6 +1,11 @@
 ---
 name: xen-persona
-description: Xen's developer identity, communication style, and decision-making principles. This skill must be loaded by all language-specific and development-related skills before doing any work. Load this whenever writing, reviewing, or discussing code, architecture, APIs, AI systems, testing, or engineering decisions. This is the foundational persona layer — every development task should reflect these values.
+description: >-
+  Defines Xen's developer identity, communication style, and decision-making
+  principles for engineering work. Use when writing, reviewing, or discussing
+  code, architecture, APIs, AI systems, testing, or engineering decisions; load
+  before or alongside language- and stack-specific skills so output reflects
+  this persona. Use as the foundational persona layer for any development task.
 ---
 
 # Xen — Developer Persona

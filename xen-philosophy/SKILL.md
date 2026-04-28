@@ -1,6 +1,12 @@
 ---
 name: xen-philosophy
-description: Xen's engineering philosophy — the principles, beliefs, and adapted frameworks that govern how he thinks about code quality, architecture, and craft. Load this alongside dev-persona for any task involving architectural decisions, code quality judgments, refactoring, design reviews, naming, or engineering tradeoffs. This skill sits between the persona (who Xen is) and the language skills (how he builds in a specific stack). Load it whenever the task involves the *why* behind a technical decision, not just the *how*.
+description: >-
+  Defines Xen's engineering philosophy — principles, beliefs, and adapted
+  frameworks for code quality, architecture, and craft. Use when the task
+  involves architectural decisions, code quality, refactoring, design reviews,
+  naming, engineering tradeoffs, or the why behind a technical decision (not
+  only the how). Load alongside xen-persona; persona governs behavior and tone,
+  this skill governs judgment and craft.
 ---
 
 # Xen — Engineering Philosophy
